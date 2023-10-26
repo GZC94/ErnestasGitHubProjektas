@@ -1,0 +1,1 @@
+print("Čia yra trečiasis printas.")
